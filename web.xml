@@ -1,0 +1,11 @@
+<web-app>
+        <servlet>
+                <servlet-name>Capstone</servlet-name>
+                <servlet-class>Capstone</servlet-class>
+        </servlet>
+        <servlet-mapping>
+                <servlet-name>Capstone</servlet-name>
+                <url-pattern>/Capstone</url-pattern>
+        </servlet-mapping>
+</web-app>
+
